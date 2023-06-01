@@ -3,14 +3,14 @@
 
 
 This project creates a simple digital clock that continuously updates the displayed time, date, and day of the week using the Tkinter GUI framework and the time module.
+<br>
+<div align="center">
 
-<!-- <div align="center">
+![GitHub Repo stars](https://img.shields.io/github/stars/offshujr04/Digital-Clock?style=social)
+![GitHub Repo forks](https://img.shields.io/github/forks/offshujr04/Digital-Clock?style=social)
+![GitHub Repo Contributors](https://img.shields.io/github/contributors/offshujr04/Digital-Clock?style=social)
 
-![GitHub Repo stars](https://img.shields.io/github/stars/jaydeepdey03/youtube-clone?style=social)
-![GitHub Repo forks](https://img.shields.io/github/forks/jaydeepdey03/youtube-clone?style=social)
-![GitHub Repo Contributors](https://img.shields.io/github/contributors/jaydeepdey03/youtube-clone?style=social)
-
-</div> -->
+</div>
 <br>
 
 ![image](https://github.com/offshujr04/Digital-Clock/assets/114171354/ce68dbf7-a297-4b76-b000-d9bae6d0471a)  
